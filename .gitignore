@@ -112,3 +112,7 @@ ENV/
 
 #tensorboard
 runs/
+
+#DCGAN
+DCGAN/results
+datasets/
